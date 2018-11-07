@@ -1,0 +1,41 @@
+body {
+  background-image: url("rain.gif");}
+
+
+
+
+#sectionone {font-family:courier;
+		color:#2490FF;
+		background-color:#002B33;
+		text-align:center;
+		width:250px;
+		border-style:solid;
+		border-color:#2490FF;
+		border 5px;
+		padding: 10px; 
+		margin: 100px;
+		text-shadow: 1px 1px 3px;}
+#sectiontwo {font-family:sans-serif;
+		color:#209318;
+		background-color:#033822;
+		text-align:center;
+		width:200px;
+		border-style:dashed;
+		border-color:#209318;
+		border 5px;
+		padding: 10px;
+		margin: 175px;
+		text-shadow: 1px 1px 4px;}
+#sectionthree {font-family:verdana;
+		color:#F3453E;
+		background-color:#400E09;
+		text-align:center;
+		width:250px;
+		border-style:solid;
+		border-color:#F3453E;
+		border 5px; 
+		padding: 10px;  
+		margin: 225px;
+		text-decoration: overline;
+		text-shadow: 1px 1px 5px;}
+
